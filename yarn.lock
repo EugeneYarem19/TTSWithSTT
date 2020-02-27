@@ -1043,6 +1043,13 @@
   resolved "https://registry.yarnpkg.com/@react-native-community/eslint-plugin/-/eslint-plugin-1.0.0.tgz#ae9a430f2c5795debca491f15a989fce86ea75a0"
   integrity sha512-GLhSN8dRt4lpixPQh+8prSCy6PYk/MT/mvji/ojAd5yshowDo6HFsimCSTD/uWAdjpUq91XK9tVdTNWfGRlKQA==
 
+"@react-native-community/voice@1.0.6":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@react-native-community/voice/-/voice-1.0.6.tgz#c92de10ef29b7ebd5b8588250a9ebf89e92e0721"
+  integrity sha512-YGQuPhFWTrGuodgWRoQ+AwCIS5Eu9y/GdVELm3Lq18U0IaykLt/1oBYAHs6lnC1S6tFgHLi0s/SxImd4SQfD0A==
+  dependencies:
+    invariant "^2.2.4"
+
 "@sinonjs/commons@^1.7.0":
   version "1.7.1"
   resolved "https://registry.yarnpkg.com/@sinonjs/commons/-/commons-1.7.1.tgz#da5fd19a5f71177a53778073978873964f49acf1"
@@ -4000,7 +4007,7 @@ jest@^25.1.0:
     import-local "^3.0.2"
     jest-cli "^25.1.0"
 
-jetifier@^1.6.2:
+jetifier@1.6.5, jetifier@^1.6.2:
   version "1.6.5"
   resolved "https://registry.yarnpkg.com/jetifier/-/jetifier-1.6.5.tgz#ea87324a4230bef20a9651178ecab978ee54a8cb"
   integrity sha512-T7yzBSu9PR+DqjYt+I0KVO1XTb1QhAfHnXV5Nd3xpbXM6Xg4e3vP60Q4qkNU8Fh6PHC2PivPUNN3rY7G2MxcDQ==
@@ -5428,7 +5435,7 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4, react-is@^16.9.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.0.tgz#0f37c3613c34fe6b37cd7f763a0d6293ab15c527"
   integrity sha512-GFMtL0vHkiBv9HluwNZTggSn/sCyEt9n02aM0dSAjGGyqyNlAyftYm4phPxdvCigG15JreC5biwxCgTAJZ7yAA==
 
-react-native-tts@^3.1.1:
+react-native-tts@3.1.1:
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/react-native-tts/-/react-native-tts-3.1.1.tgz#b3eb4133432c70beb6dfb33685737c8cab441e02"
   integrity sha512-EGwapFt1CMBopawc8WvpHRv/oXZnOQPuS5ZHrKp0zpz7Kosb6aN1cyj6YSUX2LzcqP6glhrvCPS+PPkW2yMbRQ==
